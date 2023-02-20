@@ -5,4 +5,4 @@
 !*.py
 
 # Unignore read.md
-!read.md
+!readme.md
