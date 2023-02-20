@@ -3,3 +3,6 @@
 
 # Unignore python files
 !*.py
+
+# Unignore read.md
+!read.md
